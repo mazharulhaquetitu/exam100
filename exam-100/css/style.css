@@ -1,0 +1,308 @@
+/*	
+	author: mazharul haque;
+	website: mazharul haque.com;
+	mail: tituhaquebd@gmail.com;
+*/
+/*
+	===index===
+	1.Global section/Head section
+	2.Fusce at
+	3.Facilisis 
+	4.Ante donec 
+	5.Blandit rhoncus 
+	6.Placerat
+	7.footer section
+
+	color
+	#31353e
+	ffffff
+	
+	#4b4e73
+	
+
+*/
+
+/* themse css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+/* Global css */
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+ *{
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+ h1{
+
+ }
+ h2{
+
+ }
+ h3{
+
+ }
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+p{
+
+}
+.news-btn{
+
+}
+/* Header section  */
+
+.nav-head{
+	background-color: #edeff1;
+	padding: 30px opx;
+}
+
+.nav-link.js-scroll-trigger{
+		color: #31353e;
+		margin: 0px 10px;
+}
+
+
+
+.nav-link.js-scroll-trigger.{
+	background-color: #dd4b2b ;
+	color: #ffff;
+    padding: 6px 32px; 
+    border-radius: 30px;
+
+}
+.fa.fa-cutlery{
+	color: #161616;
+	text-align: center;
+}
+/* hero section*/
+
+.hero{
+	background: url(../img/)no-repeat;
+
+
+
+}
+
+.hero-content{
+	text-align: center;
+	padding-top: 125px;
+
+}
+
+.hero-content h3{
+		color: #161616;
+		font-size: 60px;
+		font-weight: 300;
+}
+.hero-content h4{
+		 color: #161616;
+		font-size: 20px;
+		font-weight: 500;
+}
+
+.food-menu{
+
+}
+.hero-item{
+		
+		
+}
+.hero-item img{
+	
+
+}
+.hero-item h3{
+		color: #ffff;
+		text-align: center;
+}
+.hero-item h6{
+	color: #ffff;
+	text-align: center;
+
+}
+
+.hero-btn{
+	background: #ffff;
+	padding: 10px 32px;
+	border-radius: 32px;
+	color: #612316;
+	margin: 0 auto;
+	border: none;
+
+}
+/* our news */
+
+.bg-light{
+	background-color: #edeff1;
+}
+
+
+.our-news{
+	text-align: center;
+
+}
+
+.news-btn{
+	background: #ffff;
+	padding: 10px 32px;
+	border-radius: 32px;
+	color: #4e5159;
+	margin: 0 auto;
+	border: none;
+	text-decoration: none;
+}
+
+/* newsletter*/
+
+.newsletter{
+	background: url(../img/)no-repeat;
+	background-size: cover;
+	background-position: top center;
+
+	
+}
+.contact{
+	text-align: center;
+}
+.contact h2{
+	color: #ffffff;
+    margin-top: 77px;
+}
+.contact p{
+	color: #ffffff;
+}
+
+.form-control{
+	border-radius: 20px;
+	background: transparent;
+	border: 1px solid #ffff;
+}
+.submit-btn{
+	color: #162316;
+    position: absolute;
+    right: 16px;
+    margin-top: -54px;
+    padding: 7px 44px;
+    border-radius: 23px; 
+    border: none;
+}
+
+.form-control::placeholder{
+	color: red;
+}
+.dolor-btn{
+	color: #ffff;
+	border-radius: 30px;
+    padding: 6px 25px;
+    background-color: #dd4b2b;
+    border: none;
+}
+.dolor1-btn{
+	color: #ffff;
+	border-radius: 30px;
+    padding: 6px 25px;
+    background-color: #4b4e73;
+    border: none;
+}
+.dolor h4{
+	margin-top: 5px;
+
+
+}
+
+.Contact-3{
+	background: url(../img/)no-repeat;
+	background-size: cover;
+	background-position: top center;
+	
+
+}
+
+.cotact-3-top{
+	background-color: #d75d0e;
+	z-index: 9999;
+}
+.Contact-3 h6{
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
